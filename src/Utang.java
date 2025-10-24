@@ -1,8 +1,6 @@
 /**
  * Merepresentasikan satu entitas utang.
  * Menyimpan informasi pemberi utang, jumlah, jatuh tempo, dan status lunas.
- *
- * @author furqanul ulung
  */
 public class Utang {
 

@@ -4,9 +4,6 @@ import java.util.List;
 /**
  * AplikasiPencatatUtang adalah kelas utama untuk mengelola
  * daftar utang piutang.
- *
- * @author [NAMA_ANDA]
- * @version 1.0
  */
 public class AplikasiPencatatUtang {
 
